@@ -8,7 +8,7 @@ A project research transfer data and wifi broadcast via light of specialized dev
 
 ![](/images/protocol-stack-lifi.PNG)
 
-## Origin and Generate of Waves in Physics:
+## Origin and Generattion of Waves in Physics:
 ## Origin of  Electromagnetic Waves in Physics:
 ## Origin of Mechanical Waves in Physics:
 ## Origin of Li-Fi:
